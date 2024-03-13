@@ -1,2 +1,2 @@
-# haneulyeon.github.io
+# Haneulyeon Blog
 Github Blog
